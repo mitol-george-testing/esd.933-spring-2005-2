@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f51fc489-e59a-38c5-7f93-1504fbb1076f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Technology Policy Negotiations and Dispute Resolution",
+  "course_description": "Technology Policy Negotiations and its prequel, ESD.932, Technology Policy Organizations, form a sequence on Organizational Processes in Technology Policy. This course provides a core framework for an interest-based approach to negotiations, along with a systems approach to dispute resolution in organizations. Core interactive skills are developed, including communication skills, negotiating over the \"rules of game,\" and cross-cultural negotiations. Key assignments center on\u00a0ethical debates in technology policy, regional economic development challenges, and assessment of organizational dispute resolution systems.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.933",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
